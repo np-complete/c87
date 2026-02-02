@@ -1,3 +1,5 @@
-inherit: ["config.common.yml"]
-pdfmaker:
-  cover: titlepage.tex
+booktitle: 2014年インターネットセキュリティまとめ
+date: 2014-12-30
+history: [["2014-12-30"]]
+cover: titlepage.tex
+coverimage: null
